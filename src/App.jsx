@@ -4,6 +4,7 @@ import Highlights from './Components/Highlights'
 import Hero from './Components/Hero'
 import Model from './Components/Model'
 import Features from './Components/Features'
+import HowItWorks from './Components/HowItWorks'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
+      <HowItWorks />
     </main>
   )
 }
