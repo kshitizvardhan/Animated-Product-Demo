@@ -5,6 +5,7 @@ import Hero from './Components/Hero'
 import Model from './Components/Model'
 import Features from './Components/Features'
 import HowItWorks from './Components/HowItWorks'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Model />
       <Features />
       <HowItWorks />
+      <Footer />
     </main>
   )
 }
