@@ -6,6 +6,10 @@ Welcome to the Animated Product Demo project! This repository showcases an inter
 - Learned how to make precise tweaks and manage timelines with GSAP.
 - Gained proficiency in Three.js for rendering 3D graphics.
 
+https://github.com/kshitizvardhan/Animated-Product-Demo/assets/143323194/04962fb9-2060-4521-8730-6d5b06235d38
+
+## Check this live: https://animated-product.vercel.app/ 
+
 ## Key Concepts Learned
 
 ### GSAP (GreenSock Animation Platform)
