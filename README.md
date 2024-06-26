@@ -17,7 +17,13 @@ https://github.com/kshitizvardhan/Animated-Product-Demo/assets/143323194/04962fb
 - **Animation**: Creating complex and smooth animations for various elements.
 - **Tweaks and Timelines**: Fine-tuning animations and managing sequences using timelines.
 - **Interactive Controls**: Implementing user interactions to control animations dynamically.
+- **ScrollTrigger Plugin**: Animating elements based on scroll position, creating scroll-driven animations.
+- **Toggle Actions**: Managing start, pause, resume, and reverse actions in response to user interactions or specific triggers.
+- **useGSAP Hook**: Integrating GSAP with React using custom hooks for seamless animation management within functional components.
+- **MorphSVG**: Smoothly morphing one SVG shape into another.
+- **Draggable**: Making elements draggable and animating them accordingly.
+- **TextPlugin**: Animating text changes such as typewriting effects.
+- **SplitText**: Breaking text into individual characters, words, or lines for more detailed animations.
+- **ScrollSmoother**: Enhancing scroll performance and creating smooth scroll effects.
 
-## Thank You
-
-Thank you for exploring the Animated Product Demo project! This project has provided me with valuable insights into combining 3D graphics with advanced animation techniques, preparing me to create dynamic and interactive web applications.
+Thank you for exploring the Animated Product Demo project! This project has provided me with valuable insights into combining 3D graphics with advanced GSAP techniques, equipping me with the skills to create dynamic and interactive web applications.
