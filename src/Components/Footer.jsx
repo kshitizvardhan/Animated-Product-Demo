@@ -27,7 +27,7 @@ const Footer = () => {
                         {footerLinks.map((link,i) => (
                             <p key={i} className='text-gray font-semibold text-xs'>
                                 {link}{" "}
-                                {i !== footerLinks.length - 1 && (<span className='mx-1 sm:mx-2'>|</span>)}
+                                {i !== footerLinks.length - 1 && (<span className='mx-1 md:mx-2'>|</span>)}
                             </p>
                         ))}
                     </div>
